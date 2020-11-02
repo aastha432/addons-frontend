@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-10-20 17:18+0000\n"
+"POT-Creation-Date: 2020-11-02 14:52+0000\n"
 "PO-Revision-Date: 2020-10-12 23:33+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,30 +44,30 @@ msgstr "Titz'aqatisáx pa…"
 msgid "Add to collection"
 msgstr "Titz'aqatisäx pa mol"
 
-#: src/amo/components/AddonAdminLinks/index.js:105
+#: src/amo/components/AddonAdminLinks/index.js:100
 msgid "Content review add-on"
 msgstr "Taq tz'aqat richin yerunik'oj rupam"
 
-#: src/amo/components/AddonAdminLinks/index.js:113
+#: src/amo/components/AddonAdminLinks/index.js:108
 msgid "Review theme"
 msgstr "Kenik'öx taq wachinel"
 
-#: src/amo/components/AddonAdminLinks/index.js:115
+#: src/amo/components/AddonAdminLinks/index.js:110
 #, fuzzy
 msgid "Review add-on code"
 msgstr "Kitzijoxikil %(addonName)s"
 
-#: src/amo/components/AddonAdminLinks/index.js:135
+#: src/amo/components/AddonAdminLinks/index.js:130
 #, fuzzy
 msgid "Admin Links"
 msgstr "Kiximonel Tz'aqat"
 
-#: src/amo/components/AddonAdminLinks/index.js:76
+#: src/amo/components/AddonAdminLinks/index.js:72
 #: src/amo/components/AddonAuthorLinks/index.js:46
 msgid "Edit add-on"
 msgstr "Tinuk' tz'aqat"
 
-#: src/amo/components/AddonAdminLinks/index.js:91
+#: src/amo/components/AddonAdminLinks/index.js:86
 msgid "Admin add-on"
 msgstr "Taq rutz'aqat nuk'samajel"
 
@@ -291,8 +291,8 @@ msgid "More information"
 msgstr "Ch'aqa' chik etamab'äl"
 
 #: src/amo/components/AddonMoreInfo/index.js:66
-#: src/amo/pages/UserProfile/index.js:357
-#: src/amo/pages/UserProfile/index.js:359
+#: src/amo/pages/UserProfile/index.js:356
+#: src/amo/pages/UserProfile/index.js:358
 #: src/amo/pages/UserProfileEdit/index.js:675
 msgid "Homepage"
 msgstr "Tikirib'äl ruxaq"
@@ -947,12 +947,12 @@ msgid "Flagged as a bug report or support request"
 msgstr "Ya'on retal achi'el jun rutzijol sachoj o ruk'utuxik to'ïk"
 
 #: src/amo/components/FlagReviewMenu/index.js:120
-msgid "Flag"
-msgstr "Tiya' retal"
-
-#: src/amo/components/FlagReviewMenu/index.js:120
 msgid "Flagged"
 msgstr "Xya' retal"
+
+#: src/amo/components/FlagReviewMenu/index.js:120
+msgid "Flag"
+msgstr "Tiya' retal"
 
 #: src/amo/components/FlagReviewMenu/index.js:123
 msgid "Flag this developer response"
@@ -1164,7 +1164,7 @@ msgid "BY FIREFOX"
 msgstr ""
 
 #: src/amo/components/HeroRecommendation/index.js:232
-#: src/amo/components/SponsoredAddonsShelf/index.js:227
+#: src/amo/components/SponsoredAddonsShelf/index.js:219
 msgid ""
 "Firefox only recommends extensions that meet our standards for security and "
 "performance."
@@ -1833,12 +1833,12 @@ msgstr "Taq Soltzij & Tanaj taq Ch'ab'äl"
 msgid "Explore"
 msgstr "Tikanöx"
 
-#: src/amo/components/SponsoredAddonsShelf/index.js:218
+#: src/amo/components/SponsoredAddonsShelf/index.js:210
 #, fuzzy
 msgid "Sponsored extensions"
 msgstr "Taq k'amal k'ïy kejqalem"
 
-#: src/amo/components/SponsoredAddonsShelf/index.js:231
+#: src/amo/components/SponsoredAddonsShelf/index.js:223
 msgid "What is this?"
 msgstr "¿Achike re'?"
 
@@ -2777,83 +2777,83 @@ msgstr ""
 "Yeb'an taq itzel taq ch'ojinem, yoq'oj o ch'owen chi kij ri e b'anel taq "
 "tz'aqat."
 
-#: src/amo/pages/UserProfile/index.js:241
+#: src/amo/pages/UserProfile/index.js:240
 #, fuzzy
 msgid "My reviews"
 msgstr "Taq tzijoxïk"
 
-#: src/amo/pages/UserProfile/index.js:269
+#: src/amo/pages/UserProfile/index.js:268
 msgid ""
 "The profile of %(user)s, a Firefox extension and theme author. Find other "
 "apps by %(user)s, including average ratings, tenure, and the option to "
 "report issues."
 msgstr ""
 
-#: src/amo/pages/UserProfile/index.js:273
+#: src/amo/pages/UserProfile/index.js:272
 msgid ""
 "The profile of %(user)s, Firefox extension author. Find other extensions by "
 "%(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
-#: src/amo/pages/UserProfile/index.js:277
+#: src/amo/pages/UserProfile/index.js:276
 msgid ""
 "The profile of %(user)s, Firefox theme author. Find other themes by "
 "%(user)s, including average ratings, tenure, and the option to report issues."
 msgstr ""
 
-#: src/amo/pages/UserProfile/index.js:316
+#: src/amo/pages/UserProfile/index.js:315
 #, fuzzy
 msgid "Add-ons developer"
 msgstr "Ch'aqa' chik taq tz'aqat kichin re b'anonela' re'"
 
-#: src/amo/pages/UserProfile/index.js:322
+#: src/amo/pages/UserProfile/index.js:321
 #, fuzzy
 msgid "Theme artist"
 msgstr "Ch'aqa' chik taq na'oj kuma re b'anöl re'"
 
-#: src/amo/pages/UserProfile/index.js:336
+#: src/amo/pages/UserProfile/index.js:335
 #: src/amo/pages/UserProfileEdit/index.js:536
 msgid "User Profile for %(user)s"
 msgstr "Ruwäch Rub'i' Okisanel richin %(user)s"
 
-#: src/amo/pages/UserProfile/index.js:339
+#: src/amo/pages/UserProfile/index.js:338
 #, fuzzy
 msgid "User Profile"
 msgstr "Tik'ex ri tzolin tzij"
 
-#: src/amo/pages/UserProfile/index.js:365
+#: src/amo/pages/UserProfile/index.js:364
 #: src/amo/pages/UserProfileEdit/index.js:692
 msgid "Location"
 msgstr "K'ojlib'äl"
 
-#: src/amo/pages/UserProfile/index.js:373
+#: src/amo/pages/UserProfile/index.js:372
 #: src/amo/pages/UserProfileEdit/index.js:707
 msgid "Occupation"
 msgstr "Samaj"
 
-#: src/amo/pages/UserProfile/index.js:380
+#: src/amo/pages/UserProfile/index.js:379
 msgid "User since"
 msgstr "Okisanel pa"
 
-#: src/amo/pages/UserProfile/index.js:390
+#: src/amo/pages/UserProfile/index.js:389
 msgid "Number of add-ons"
 msgstr "Kajlab'al tz'aqat"
 
-#: src/amo/pages/UserProfile/index.js:396
+#: src/amo/pages/UserProfile/index.js:395
 msgid "Average rating of developer’s add-ons"
 msgstr "Nik'aj kejqalem taq rutz'aqat b'anonel"
 
-#: src/amo/pages/UserProfile/index.js:411
+#: src/amo/pages/UserProfile/index.js:410
 #: src/amo/pages/UserProfileEdit/index.js:729
 msgid "Biography"
 msgstr ""
 
-#: src/amo/pages/UserProfile/index.js:435
+#: src/amo/pages/UserProfile/index.js:434
 #, fuzzy
 msgid "Edit profile"
 msgstr "Tinuk' Ruwäch B'i'aj"
 
-#: src/amo/pages/UserProfile/index.js:448
+#: src/amo/pages/UserProfile/index.js:447
 #, fuzzy
 msgid "Admin user"
 msgstr "Kiximonel Tz'aqat"
